@@ -1,10 +1,10 @@
-# 🧾 User Form
+#  User Form
 
 A simple and responsive **User Form** built with **React + Vite** for collecting and managing user information efficiently.
 
 ---
 
-## 🚀 Features
+##  Features
 - Easy-to-use interface for user input  
 - Real-time form validation  
 - Responsive layout for all devices  
@@ -13,14 +13,14 @@ A simple and responsive **User Form** built with **React + Vite** for collecting
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **React (Vite)**
 - **JavaScript (ES6+)**
 - **CSS3**
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 # Clone the repository
